@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name         = 'powerline-exitstatus',
     description  = 'A Powerline segment for showing the status of Exit status',
-    version      = '1.1.0',
+    version      = '1.1.1',
     keywords     = 'powerline exit status prompt',
     license      = 'MIT',
     author       = 'shimtom',
